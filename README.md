@@ -1,9 +1,20 @@
-# For-Newbies-Logistic_Regression-for-Image-Classification
-Logistic_Regression for Image Classification Training material for Newbies
+Overview
+============
+How to build a logistic regression classifier to from scratch.
 
-## Credit
+Dependencies
+============
+* numpy
+* scipy
+* h5py
+* matplotlib
+* PIL 
+* scipy
 
-1. Python Software Foundation 
-2. NumPy
-3. Pandas
-4. Andrew Ng 
+Credits
+===========
+* Andrew Ng
+* Ian Goodfellow
+* Yoshua Bengio
+* Aaron Courville
+* Eric Matthes
