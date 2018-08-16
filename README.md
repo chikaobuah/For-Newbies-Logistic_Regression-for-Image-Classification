@@ -17,3 +17,4 @@ Credits
 * Yoshua Bengio
 * Aaron Courville
 * Eric Matthes
+* François Chollet
