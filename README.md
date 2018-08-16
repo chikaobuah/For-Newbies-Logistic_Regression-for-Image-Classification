@@ -9,7 +9,6 @@ Dependencies
 * h5py
 * matplotlib
 * PIL 
-* scipy
 
 Credits
 ===========
