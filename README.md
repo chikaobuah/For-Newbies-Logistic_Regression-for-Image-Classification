@@ -10,7 +10,7 @@ Dependencies
 * matplotlib
 * PIL 
 
-Credits
+Inspiration
 ===========
 * Andrew Ng
 * Ian Goodfellow
